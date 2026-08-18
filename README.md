@@ -3,7 +3,7 @@
 <h1>Greetings, I'm Zino ^^</h1>
 
 <p>
-  <strong>Backend Developer & Junior SOC Analsyt</strong>
+  <strong>Backend Developer & Junior SOC Analyst</strong>
 </p>
 
 <a href="https://www.linkedin.com/in/zino-feindt-riggers-0a8a75390/" target="_blank" rel="noreferrer">
