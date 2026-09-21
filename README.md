@@ -63,7 +63,7 @@ Here you will mainly see **WriteUps for CTFs**. I will also publish personal pro
 | Certification | Status |
 | :--- | :--- |
 | **LPIC-1** (Linux Professional Institute) | Completed |
-| **CompTIA Security+** | Scheduled: September 2026 |
+| **CompTIA Security+** | Completed |
 | **CompTIA CySA+** | Scheduled: January 2027 |
 | **CompTIA Network+** | Undetermined date |
 
